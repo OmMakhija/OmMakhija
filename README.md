@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Om 👋
 
-<!--
-**OmMakhija/OmMakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> CS student architecting resilient full-stack applications, autonomous agentic workflows, and high-contrast digital interfaces to solve challenging real-world problems through clean, intentional software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Who I Am
+- **Undergrad**: B.Tech (Hons.) in Computer Science (Specializing in AI & Analytics)
+- **Focus**: Building scalable platforms at the convergence of multi-agent AI, backend systems, and high-performance web applications.
+- **Philosophy**: Clean ergonomics, purposeful minimalist UI/UX, and robust software architecture.
+
+---
+
+### 🚀 What I'm Working On
+- **Agentic Systems & RAG**: Designing multi-agent workflows, checkpointed systems, and performant retrieval-augmented pipelines.
+- **Full-Stack Web Platforms**: Engineering responsive, end-to-end applications with modern frontend architectures and asynchronous microservices.
+- **Applied AI & Vision**: Prototyping computer vision pipelines, multi-modal verification models, and embedded AI solutions.
+
+---
+
+###  Tech Stack & Tools
+
+- **Languages:** Python, JavaScript, Java, SQL
