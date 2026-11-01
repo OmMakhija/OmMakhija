@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 - **Agentic Systems & RAG**: Designing multi-agent workflows, checkpointed systems, and performant retrieval-augmented pipelines.
 - **Full-Stack Web Platforms**: Engineering responsive, end-to-end applications with modern frontend architectures and asynchronous microservices.
 - **Applied AI & Vision**: Prototyping computer vision pipelines, multi-modal verification models, and embedded AI solutions.
